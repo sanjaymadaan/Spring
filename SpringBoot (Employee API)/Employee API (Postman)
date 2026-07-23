@@ -1,7 +1,0 @@
-Employee API
-
-This collection provides a set of RESTful endpoints for managing employee records. 
-It covers the full lifecycle of employee data — from creating and retrieving records to deleting individual 
-or all employees — along with a health check to verify service availability.
-
-https://documenter.getpostman.com/view/21643869/2sBY4QrenL
